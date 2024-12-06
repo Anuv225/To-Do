@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "To-Do Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anuv225/To-Do.git"
+  },
+  "author": "Anuvind Paul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anuv225/To-Do/issues"
+  },
+  "homepage": "https://github.com/Anuv225/To-Do#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
